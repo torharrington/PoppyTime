@@ -2,16 +2,16 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+url: http://poppytime.website
+title: Poppy Time
+email: poppytime@torharrington.com
+author: Tor Harrington
+description: > # "Poppy Time is a Pebble Watchface designed specifically for the
+  Pebble Time, Pebble Time Steel and Pebble Time Round series of Smartwatches. Show
+  support during Remembrance Day with a digital Poppy on your wrist. Please don't
+  forget to donate and support fallen comdrades and loved ones everywhere.
+copyright: 'Copyright &copy; 2016 Tor Harrington. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Jekyll theme created by <a href="https://github.com/swcool/landing-page-theme/">Shane Weng</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -21,14 +21,14 @@ credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme cr
 markdown: kramdown
 permalink: pretty
 
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
-
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+  - icon: twitter
+    url: http://www.twitter.com/torharrington
+  - icon: github
+    url: http://www.github.com/torharrington
+  - icon: slack
+    url: http://pebbledev.slack.com
+  - icon: google-plus
+    url: https://plus.google.com/+torharrington
+  - icon: envelope-o
+    url: mailto:info@poppytime.website
