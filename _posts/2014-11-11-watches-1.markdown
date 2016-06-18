@@ -5,4 +5,10 @@ category: Watches
 title: Pebble Time & Pebble Time Steel
 description: |
 ---
-Designed specfically for the [Pebble](http://www.pebble.com)
+Designed specfically for the [Pebble Time](https://www.pebble.com/buy-pebble-time-smartwatch) and
+[Pebble Time Steel](https://www.pebble.com/buy-pebble-time-steel-smartwatch) watches. Features
+a square outside marker with 12 position indicators to aid in telling the time.
+
+At the center is the [poppy](https://en.wikipedia.org/wiki/Poppy) face which is made up of the flower,
+stem and leaf. The idea was to have a poppy on your wrist when observing [Remembrance Day](https://en.wikipedia.org/wiki/Remembrance_Day). The light green
+stem is the hour hand while the bigger, dark green leaf is the minute hand.
