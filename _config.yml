@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://poppytime.website
+url: https://poppytime.torharrington.com
 title: Poppy Time
 email: poppytime@torharrington.com
 author: Tor Harrington
@@ -26,9 +26,3 @@ social:
     url: http://www.twitter.com/torharrington
   - icon: github
     url: http://www.github.com/torharrington
-  - icon: slack
-    url: http://pebbledev.slack.com
-  - icon: google-plus
-    url: https://plus.google.com/+torharrington
-  - icon: envelope-o
-    url: mailto:info@poppytime.website
